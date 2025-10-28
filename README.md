@@ -1,4 +1,4 @@
-![Copyclean Icon](https://www.lukedunsmore.com/wp-content/uploads/2025/10/CopyClean-Icon.png)
+<img src="https://www.lukedunsmore.com/wp-content/uploads/2025/10/CopyClean-Icon.png" alt="Copyclean Icon" width="150" height="150">
 
 # copyclean
 Copy text **without the formatting nonsense**.
