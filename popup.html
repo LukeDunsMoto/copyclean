@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>copyclean</title>
+    <link rel="stylesheet" href="popup.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <header>
+      <h1>copyclean</h1>
+    </header>
+
+    <main>
+      <div id="blocked" class="banner hidden"></div>
+
+      <label class="row">
+        <input type="checkbox" id="autoToggle" />
+        <span>Auto-clean on Ctrl/Cmd+C</span>
+      </label>
+
+      <button id="copyBtn" class="primary">Copy selection as plain text</button>
+
+      <p class="hint">Works on regular web pages. Not available on chrome:// pages, the Chrome Web Store, or PDFs.</p>
+    </main>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
